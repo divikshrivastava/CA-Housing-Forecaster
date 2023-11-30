@@ -1,7 +1,6 @@
 # California-Realestate-Data-Mining
 
 
-```markdown
 
 A Data Mining project analysing California Real Estate Data
 
@@ -25,9 +24,8 @@ Clone this repository to your local machine
 
 Navigate to the project directory:
 
-```bash
-cd California-Realestate-Data-Mining
-```
+
+```cd California-Realestate-Data-Mining```
 
 
 ## Usage
@@ -36,7 +34,4 @@ cd California-Realestate-Data-Mining
 2. Run each cell in the notebook to execute the code.
 3. Follow the instructions and comments in the notebook for detailed explanations.
 
-
-
-```
 
